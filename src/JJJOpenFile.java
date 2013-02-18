@@ -6,6 +6,10 @@
  * To change this template use File | Settings | File Templates.
  */
 public class JJJOpenFile {
+
+    public boolean Verbosity;
+    public boolean Logging;
+
     void Welcome(){
      System.out.println("Welcome to the Java!Java!JSON! Virtual Machine");
      System.out.println("By Matthew Hughes");
@@ -25,6 +29,12 @@ public class JJJOpenFile {
         System.out.println("The second indicates if logging is enabled (1) or disabled (0)");
         System.out.println("The third indicates if verbosity is enabled (1) or disabled (0)");
         System.out.println("An example of usage is as follows:");
-        System.out.println("");
+        System.out.println("JJJVM Example.jjj 1 1");
+        System.out.println("This opens your file with logging on and verbosity enabled.");
+    }
+    void CheckArguments(String args[]){
+        Verbosity = (args[1].equals("1")) ? true : false;
+        Logging = (args[2].equals("1")) ? true : false;
+
     }
 }
