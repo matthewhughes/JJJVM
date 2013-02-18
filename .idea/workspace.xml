@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e042eb-6c06-4074-9ad4-5c3981a07e03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JJJOpenFile.java" afterPath="$PROJECT_DIR$/src/JJJOpenFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JJJVM.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/JJJOpenFile.java" changelist="94e042eb-6c06-4074-9ad4-5c3981a07e03" time="1361208356612" ignored="false" />
-    <file path="/Dummy.txt" changelist="94e042eb-6c06-4074-9ad4-5c3981a07e03" time="1361208346040" ignored="false" />
+    <file path="/JJJOpenFile.java" changelist="94e042eb-6c06-4074-9ad4-5c3981a07e03" time="1361208740928" ignored="false" />
+    <file path="/Dummy.txt" changelist="94e042eb-6c06-4074-9ad4-5c3981a07e03" time="1361208379288" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="JJJOpenFile.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JJJOpenFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="94" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.48138297">
+            <state line="42" column="25" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.83776593">
               <folding />
             </state>
           </provider>
@@ -241,7 +241,11 @@
       <created>1361207880341</created>
       <updated>1361207880341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit.">
+      <created>1361208388661</created>
+      <updated>1361208388661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -329,7 +333,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/JJJOpenFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="94" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.48138297">
+        <state line="42" column="25" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.83776593">
           <folding />
         </state>
       </provider>

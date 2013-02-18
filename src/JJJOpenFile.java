@@ -33,8 +33,15 @@ public class JJJOpenFile {
         System.out.println("This opens your file with logging on and verbosity enabled.");
     }
     void CheckArguments(String args[]){
+
         Verbosity = (args[1].equals("1")) ? true : false;
         Logging = (args[2].equals("1")) ? true : false;
+
+        if(args[1] != "1" || args[1] != "0" && args[2] != "1" || args[2] != "0" ){
+            System.out.println("Wrong arguments.");
+            System.out.println("If you're a bit stuck, run this again with just the Help argument");
+            System.exit(1);
+        }
 
     }
 }
